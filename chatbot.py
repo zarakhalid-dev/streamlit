@@ -1,4 +1,4 @@
-import streamlit as st
+import chatbot as st
 from google import genai
 from google.genai import types
 from dotenv import load_dotenv
