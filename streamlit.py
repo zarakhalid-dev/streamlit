@@ -10,7 +10,7 @@ client = genai.Client(api_key=os.getenv("API_KEY"))
 
 
 st.markdown(
-    "<h1 style='text-align:center;'>Chatbot Form</h1>",
+    "<h1 style='text-align:center;'>Chatbot</h1>",
     unsafe_allow_html=True
 )
 
